@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDiana%2C_Princess_of_Wales&psig=AOvVaw0uHFrjrjM6Ihby4FAIgYRx&ust=1629062398710000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDNib-4sfICFQAAAAAdAAAAABAD)'
+  caption: 'Image credit: [**Unsplash**](https://upload.wikimedia.org/wikipedia/commons/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg)'
   focal_point: ""
   preview_only: false
 
