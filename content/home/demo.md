@@ -78,7 +78,7 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 
 Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
 
-**To remove this section, delete `content/home/demo.md`.**
+**To remove this sectionnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn, delete `content/home/demo.md`.**
 {{% /callout %}}
 
 ## Get inspired
