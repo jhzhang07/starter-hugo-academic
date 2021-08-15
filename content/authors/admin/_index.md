@@ -8,21 +8,21 @@
   role: Student of Software Engineering
 
 # Organizations/Affiliations to show in About widget
-University:
+  University:
 - name: Jilin University
   url: https://global.jlu.edu.cn/
 
 #  TODO  Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+  bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+  interests:
 - Artificial Intelligence
 - Game design
 - Information Retrieval
 
 # Education to show in About widget
-education:
+  education:
   courses:
   - course: BSc in Software Engineering
     institution: Jilin University
@@ -32,7 +32,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+  social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
