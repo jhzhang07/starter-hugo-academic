@@ -2,10 +2,10 @@
 # Display name
   title: Jinhe Zhang
 # Is this the primary user of the site?
-superuser: true
+  superuser: true
 
 # Role/position/tagline
-role: Student of Software Engineering
+  role: Student of Software Engineering
 
 # Organizations/Affiliations to show in About widget
 University:
