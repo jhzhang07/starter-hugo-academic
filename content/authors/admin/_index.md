@@ -9,11 +9,11 @@
   role: Student of Software Engineering
 
 # Organizations/Affiliations to show in About widget
-  University:
+  organizations:
 - name: Jilin University
   url: https://global.jlu.edu.cn/
 
-#  TODO  Short bio (displayed in user profile at end of posts)
+# TODO  Short bio (displayed in user profile at end of posts)
   bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
