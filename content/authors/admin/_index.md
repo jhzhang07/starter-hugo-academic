@@ -1,20 +1,20 @@
 ---
 # Display name
-  title: Jinhe Zhang
+title: Jinhe Zhang
   
 # Is this the primary user of the site?
-  superuser: true
+superuser: true
 
 # Role/position/tagline
-  role: Student of Software Engineering
-
+role: Student of Software Engineering
+  
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Jilin University
-  url: https://global.jlu.edu.cn/
-
+- name: Stanford University
+  url: https://www.stanford.edu/  
+  
 # TODO  Short bio (displayed in user profile at end of posts)
-  bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
