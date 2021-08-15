@@ -1,6 +1,7 @@
 ---
 # Display name
   title: Jinhe Zhang
+  
 # Is this the primary user of the site?
   superuser: true
 
