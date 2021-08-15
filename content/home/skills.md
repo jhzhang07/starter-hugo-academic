@@ -22,7 +22,7 @@ feature:
   name: python
 - description: 
   icon: css3
-  icon_pack: fas
+  icon_pack: fab
   name: css
 - description:
   icon: camera-retro
