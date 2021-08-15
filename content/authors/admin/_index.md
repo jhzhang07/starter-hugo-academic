@@ -9,7 +9,7 @@
   role: Student of Software Engineering
 
 # Organizations/Affiliations to show in About widget
-  organizations:
+organizations:
 - name: Jilin University
   url: https://global.jlu.edu.cn/
 
@@ -17,13 +17,13 @@
   bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-  interests:
+interests:
 - Artificial Intelligence
 - Game design
 - Information Retrieval
 
 # Education to show in About widget
-  education:
+education:
   courses:
   - course: BSc in Software Engineering
     institution: Jilin University
