@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: Google
     company_url: ''
-    company_logo: org-google
+    company_logo: org-Google
     location: California
     date_start: '2021-01-01'
     date_end: ''
