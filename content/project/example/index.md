@@ -18,7 +18,7 @@ links:
   name: Follow
   url: 
   
-url_pdf: "https://www.jhzhang.info/uploads/demo_resume.pdf"
+url_pdf: "https://www.jhzhang.info/uploads/MCTS.pdf"
 
 
 # Slides (optional).
