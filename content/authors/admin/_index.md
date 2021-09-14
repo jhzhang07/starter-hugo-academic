@@ -36,10 +36,9 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:isjhzhang@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
   label: Follow me on Twitter
   display:
     header: true
