@@ -1,6 +1,6 @@
 ---
 title: A Bot for Go Game
-summary: Designed a bot program with extremely high win ratio in Gogame using Monte Carlo tree search(MCTS).
+summary: Designed a bot program with extremely high win ratio in Go game using Monte Carlo tree search(MCTS).
 tags:
 - Algorithm
 date: "2020"
