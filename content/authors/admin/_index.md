@@ -14,13 +14,13 @@ organizations:
   url: https://global.jlu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Machine Learning, Data Mining, Bioinformatics, Health Informatics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Game design
-- Information Retrieval
+- Machine Learning
+- Data Mining
+- Bioinformatics
 
 # Education to show in About widget
 education:
