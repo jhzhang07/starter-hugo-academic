@@ -1,15 +1,15 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: A Bot for Go Game
+summary: Designed a bot program with extremely high win ratio in Gogame using Monte Carlo tree search(MCTS).
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Algorithm
+date: "2020"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
@@ -19,7 +19,6 @@ links:
   url: 
 url_code: ""
 url_pdf: "https://www.jhzhang.info/uploads/demo_resume.pdf"
-url_slides: ""
 url_video: ""
 
 # Slides (optional).
@@ -30,7 +29,7 @@ url_video: ""
 slides: example
 ---
 
-本题使用了蒙特卡洛树搜索即 MCTS 的方法，蒙特卡洛树搜索 MCTS 是
+使用了蒙特卡洛树搜索即 MCTS 的方法，蒙特卡洛树搜索 MCTS 是
 一种针对决策类博弈游戏，运用蒙特卡洛模拟方法进行评估博弈策略的启发
 式搜索算法。MCTS 的重点是对最有前途的举动进行分析，并基于对搜索空
 间的随机采样来扩展搜索树。在每次模拟 (roll-out) 时，通过随机选择移动来
