@@ -17,9 +17,9 @@ links:
   icon_pack: fab
   name: Follow
   url: 
-url_code: ""
+  
 url_pdf: "https://www.jhzhang.info/uploads/demo_resume.pdf"
-url_video: ""
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -27,7 +27,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 
-slides = ""
+
 ---
 
 使用了蒙特卡洛树搜索即 MCTS 的方法，蒙特卡洛树搜索 MCTS 是
