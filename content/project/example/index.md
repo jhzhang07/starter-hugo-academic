@@ -27,6 +27,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 
+slides = ""
 ---
 
 使用了蒙特卡洛树搜索即 MCTS 的方法，蒙特卡洛树搜索 MCTS 是
