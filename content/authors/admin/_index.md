@@ -66,6 +66,7 @@ email: ""
 highlight_name: false
 ---
 
-**我叫张津赫，我是神**
+**I'm a third-year undergraduate at Jilin university.**
+**love coding and explore anything new**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
