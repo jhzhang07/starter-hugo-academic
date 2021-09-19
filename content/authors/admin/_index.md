@@ -61,6 +61,7 @@ highlight_name: false
 ---
 
 **I'm a third-year undergraduate at Jilin university.**
+\\
 **Love Coding and Never Stop Exploring.**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
