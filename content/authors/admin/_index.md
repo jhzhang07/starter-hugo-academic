@@ -41,14 +41,8 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   display:
-    header: true
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: 
+   header: true
 - icon: github
-  icon_pack: fab
-  link: 
-- icon: linkedin
   icon_pack: fab
   link: 
 
@@ -68,6 +62,6 @@ highlight_name: false
 
 **I'm a third-year undergraduate at Jilin university.**
 
-**Love coding and explore anything new.**
+**Love Coding and Never Stop Exploring.**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
