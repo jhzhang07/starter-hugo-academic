@@ -14,18 +14,19 @@ organizations:
   url: https://global.jlu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning, Data Mining, Bioinformatics, Health Informatics.
+bio: My research interests include Machine Learning, Software Engineering, Database System, Bioinformatics.
 
 # Interests to show in About widget
 interests:
 - Machine Learning
-- Data Mining
+- Software Engineering
+- Database System
 - Bioinformatics
 
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Software Engineering
+  - course: B.Eng. in Software Engineering
     institution: Jilin University
     year: 2023
 
@@ -60,7 +61,7 @@ email: ""
 highlight_name: false
 ---
 
-**I'm a third-year undergraduate at Jilin university.**
+**I'm a fourth-year undergraduate at Jilin university.**
 \
 **Love Coding and Never Stop Exploring.**
 
