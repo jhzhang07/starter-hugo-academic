@@ -18,10 +18,7 @@ bio: My research interests include Machine Learning, Software Engineering, Datab
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Software Engineering
-- Database System
-- Bioinformatics
+
 
 # Education to show in About widget
 education:
